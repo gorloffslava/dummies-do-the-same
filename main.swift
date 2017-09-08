@@ -1,2 +1,2 @@
 imort Foundation
-var a = 0
+var a = 10
